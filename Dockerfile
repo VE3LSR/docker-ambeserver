@@ -1,5 +1,5 @@
 FROM phusion/baseimage
-MAINTAINER ve3yca@ve3yca.com
+MAINTAINER projects@ve3lsr.ca
 
 # RUN apt-get update && apt-get install -yq git && apt-get clean && rm -rf /var/lib/apt/lists/* /var/tmp/* /tmp/*
 
